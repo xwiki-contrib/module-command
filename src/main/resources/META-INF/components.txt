@@ -1,0 +1,2 @@
+org.xwiki.command.CommandResource
+org.xwiki.command.commands.LS
